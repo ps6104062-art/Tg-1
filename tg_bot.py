@@ -31,8 +31,8 @@ from telethon.sessions import StringSession
 
 # ─── Конфиг ──────────────────────────────────────────────────────────────────
 BOT_TOKEN    = "8927918931:AAEyCzKE7GEnuSRTK9njGT65HDoLopIdvFA"   # ← от @BotFather
-API_ID       = 12345              # ← от my.telegram.org
-API_HASH     = "ВАШ_API_HASH"    # ← от my.telegram.org
+API_ID       = 37658735              # ← от my.telegram.org
+API_HASH     = "728f6de622061878b84d9f843181d879"    # ← от my.telegram.org
 DB_PATH      = "accounts.db"
 SESSIONS_DIR = "sessions"
 
