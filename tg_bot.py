@@ -30,7 +30,7 @@ from telethon.errors import (
 from telethon.sessions import StringSession
 
 # ─── Конфиг ──────────────────────────────────────────────────────────────────
-BOT_TOKEN    = "ВАШ_БОТ_ТОКЕН"   # ← от @BotFather
+BOT_TOKEN    = "8927918931:AAEyCzKE7GEnuSRTK9njGT65HDoLopIdvFA"   # ← от @BotFather
 API_ID       = 12345              # ← от my.telegram.org
 API_HASH     = "ВАШ_API_HASH"    # ← от my.telegram.org
 DB_PATH      = "accounts.db"
