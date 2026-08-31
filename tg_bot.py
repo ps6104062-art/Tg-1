@@ -30,10 +30,10 @@ from telethon.errors import (
 from telethon.sessions import StringSession
 
 # ─── Конфиг ──────────────────────────────────────────────────────────────────
-BOT_TOKEN    = "ВАШ_БОТ_ТОКЕН"   # ← от @BotFather
-API_ID       = 12345              # ← от my.telegram.org
-API_HASH     = "ВАШ_API_HASH"    # ← от my.telegram.org
-ADMIN_ID     = 123456789         # ← твой Telegram ID (узнай у @userinfobot)
+BOT_TOKEN    = "8927918931:AAGBS10S3Reuw_iQLn3SuJX8CGjgFmaVvyE"   # ← от @BotFather
+API_ID       = 37658735              # ← от my.telegram.org
+API_HASH     = "728f6de622061878b84d9f843181d879"    # ← от my.telegram.org
+ADMIN_ID     = 8826396052         # ← твой Telegram ID (узнай у @userinfobot)
 DB_PATH      = "accounts.db"
 SESSIONS_DIR = "sessions"
 
