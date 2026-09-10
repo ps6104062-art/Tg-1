@@ -30,18 +30,18 @@ from telethon.errors import (
 from telethon.sessions import StringSession
 
 # ─── Конфиг ──────────────────────────────────────────────────────────────────
-BOT_TOKEN       = "8927918931:AAGBS10S3Reuw_iQLn3SuJX8CGjgFmaVvyE"
+BOT_TOKEN       = "8873506485:AAGn-H-PISk0n9LmpZe5Efy_J9OYoafGbgg"
 API_ID          = 37658735
 API_HASH        = "728f6de622061878b84d9f843181d879"
 ADMIN_ID        = 8826396052
 DB_PATH         = "accounts.db"
 SESSIONS_DIR    = "sessions"
 
-CRYPTOBOT_TOKEN = "YOUR_CRYPTOBOT_TOKEN"   # токен от @CryptoBot
+CRYPTOBOT_TOKEN = "632894:AAnLTRPHdAnsH96IKAGa9j1CX5EPcSFTrt7"   # токен от @CryptoBot
 YOOMONEY_TOKEN  = ""                        # получишь позже
-YOOMONEY_WALLET = ""                        # номер кошелька ЮMoney
+YOOMONEY_WALLET = "4100119593671464"                        # номер кошелька ЮMoney
 
-COMMISSION_PCT  = 7   # % комиссии админу с каждой продажи
+COMMISSION_PCT  = 7  # % комиссии админу с каждой продажи
 
 # Курс TON/RUB (обновляется динамически)
 TON_RUB_RATE    = 700.0  # fallback если API недоступен
