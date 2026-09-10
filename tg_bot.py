@@ -19,13 +19,13 @@ from telethon.sessions import StringSession
 BOT_TOKEN        = "8873506485:AAGn-H-PISk0n9LmpZe5Efy_J9OYoafGbgg"
 API_ID           = 37658735
 API_HASH         = "728f6de622061878b84d9f843181d879"
-ADMIN_ID         = 8826396052
+ADMIN_ID         = 5688523575
 SUPPORT_USERNAME = "@tebyaobossal"   # ← твой юзернейм для кнопки поддержки
 DB_PATH          = "accounts.db"
 SESSIONS_DIR     = "sessions"
 CRYPTOBOT_TOKEN  = "632894:AAnLTRPHdAnsH96IKAGa9j1CX5EPcSFTrt7"
 YOOMONEY_TOKEN   = ""
-YOOMONEY_WALLET  = "4100119593671464"
+YOOMONEY_WALLET  = "+79770517190"
 COMMISSION_PCT   = 0   # 0% — весь магазин твой, комиссия себе не нужна
 TON_RUB_RATE     = 120
 
