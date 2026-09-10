@@ -20,14 +20,14 @@ BOT_TOKEN        = "8873506485:AAGn-H-PISk0n9LmpZe5Efy_J9OYoafGbgg"
 API_ID           = 37658735
 API_HASH         = "728f6de622061878b84d9f843181d879"
 ADMIN_ID         = 8826396052
-SUPPORT_USERNAME = "@admin"   # ← твой юзернейм для кнопки поддержки
+SUPPORT_USERNAME = "@tebyaobossal"   # ← твой юзернейм для кнопки поддержки
 DB_PATH          = "accounts.db"
 SESSIONS_DIR     = "sessions"
-CRYPTOBOT_TOKEN  = "YOUR_CRYPTOBOT_TOKEN"
+CRYPTOBOT_TOKEN  = "632894:AAnLTRPHdAnsH96IKAGa9j1CX5EPcSFTrt7"
 YOOMONEY_TOKEN   = ""
-YOOMONEY_WALLET  = ""
+YOOMONEY_WALLET  = "4100119593671464"
 COMMISSION_PCT   = 0   # 0% — весь магазин твой, комиссия себе не нужна
-TON_RUB_RATE     = 700.0
+TON_RUB_RATE     = 120
 
 CATEGORIES = ["👤 Обычный", "💎 С Premium", "📅 Старый (2013-2017)", "🔥 Редкий"]
 
