@@ -30,7 +30,7 @@ from telethon.errors import (
 from telethon.sessions import StringSession
 
 # ─── Конфиг ──────────────────────────────────────────────────────────────────
-BOT_TOKEN       = "8873506485:AAGn-H-PISk0n9LmpZe5Efy_J9OYoafGbgg"
+BOT_TOKEN       = "8871149122:AAEYRXL7HvbZWuqittRjwGb-vZ31o5qLJ80"
 API_ID          = 37658735
 API_HASH        = "728f6de622061878b84d9f843181d879"
 ADMIN_ID        = 8826396052
