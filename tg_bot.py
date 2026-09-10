@@ -16,7 +16,7 @@ from telethon.errors import FloodWaitError, PhoneCodeExpiredError, SessionPasswo
 from telethon.sessions import StringSession
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
-BOT_TOKEN        = "8927918931:AAGBS10S3Reuw_iQLn3SuJX8CGjgFmaVvyE"
+BOT_TOKEN        = "8873506485:AAGn-H-PISk0n9LmpZe5Efy_J9OYoafGbgg"
 API_ID           = 37658735
 API_HASH         = "728f6de622061878b84d9f843181d879"
 ADMIN_ID         = 8826396052
